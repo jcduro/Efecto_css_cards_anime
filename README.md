@@ -53,8 +53,3 @@ Abre el archivo index.html en tu navegador.
 
 Pasa el cursor sobre las imágenes para ver las descripciones.
 
-
-
-(Puedes incluir aquí una imagen de vista previa del proyecto, por ejemplo:)
-
-img/photos/preview.png

@@ -21,6 +21,13 @@ Personaje	Descripción
 
 ---
 
+## 📊 Lenguajes y Herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,windows,&theme=light&perline=8)](https://skillicons.dev)
+
+
+---
+
 ## 🌟 Programas
 
 HTML5 – Estructura principal del sitio

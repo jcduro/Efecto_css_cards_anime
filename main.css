@@ -1,28 +1,72 @@
 /* ------------------------------------------------------------------------------------------------
 
-      _  _____ _____  _    _ _____   ____  
-     | |/ ____|  __ \| |  | |  __ \ / __ \ 
-     | | |    | |  | | |  | | |__) | |  | |
- _   | | |    | |  | | |  | |  _  /| |  | |
-| |__| | |____| |__| | |__| | | \ \| |__| |
- \____/ \_____|_____/ \____/|_|  \_\\____/ 
-                                           
-                                           
+     |  ___|  __ \  |   |  _ \   _ \   
+     | |      |   | |   | |   | |   |  
+ \   | |      |   | |   | __ <  |   |  
+\___/ \____| ____/ \___/ _| \_\\___/   
+                                       
+  ___|  _ \  __ \  ____|    _ )   _ _| __ \  ____|    \     ___|  
+ |     |   | |   | __|     _ \ \   |  |   | __|     _ \  \___ \  
+ |     |   | |   | |      ( `  <   |  |   | |      ___ \       | 
+\____|\___/ ____/ _____| \___/\/ ___|____/ _____|_/    _\_____/  
+
+  https://jcduro.bexartideas.com/index.php | 2025 | JC Duro Code & Ideas
 
 ------------------------------------------------------------------------------------------------ */
+  /* Reseteo básico para evitar margenes extra */
 
 
-/* ======== JCDURO ======== */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body {
-  background-color: #000; /* ✅ Fondo negro */
-  color: #fff; /* Para que el texto sea visible sobre el fondo */
+
+.main-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px; /* Espacio entre logo y texto */
+  padding: 2.8em 0;
+  text-align: center;
+  position: relative;
 }
+
+/* Contenedor de logo para alinearlo a la izquierda */
+.brand {
+  position: absolute;
+  left: 20px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.logo {
+  border-radius: 10%;
+  width: 320px;
+  height: auto;
+}
+
+.name {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 2rem;
+  color: #fff;
+}
+
+.name span {
+  font-weight: 900;
+}
+
+/* Para que la cabecera sea visible sobre fondo negro */
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+
+
 
 h1,
 h3 {

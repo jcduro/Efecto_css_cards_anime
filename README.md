@@ -9,6 +9,14 @@ Diseñada en HTML y CSS, combina animación fluida, diseño limpio y descripcion
 
 ![galeria-anime_Preview](preview.gif)
 
+--- 
+
+## ✨ Pruevalo Online
+
+[Efecto_Cards](https://jcduro.bexartideas.com/proyectos/meme_creator/)
+
+--- 
+
 🧩 Personajes incluidos
 Personaje	Descripción
 🥋 Goku	Guerrero Saiyajin de Dragon Ball Z, conocido por su energía ilimitada y su deseo constante de superarse.

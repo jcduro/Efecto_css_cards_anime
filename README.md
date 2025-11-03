@@ -13,7 +13,7 @@ Diseñada en HTML y CSS, combina animación fluida, diseño limpio y descripcion
 
 ## ✨ Pruevalo Online
 
-[Efecto_Cards](https://jcduro.bexartideas.com/proyectos/meme_creator/)
+[Efecto_Cards](https://jcduro.bexartideas.com/proyectos/efecto_card_anime/index.html)
 
 --- 
 

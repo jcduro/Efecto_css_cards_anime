@@ -13,7 +13,7 @@ Diseñada en HTML y CSS, combina animación fluida, diseño limpio y descripcion
 
 ## ✨ Pruevalo Online
 
-[Efecto_Cards](https://jcduro.bexartideas.com/proyectos/efecto_card_anime/index.html)
+[Efecto_Cards](https://jcduro.bexartideas.com/proyectos/dashjc/efecto_card_anime/effcard.php)
 
 --- 
 

@@ -7,7 +7,7 @@ Diseñada en HTML y CSS, combina animación fluida, diseño limpio y descripcion
 
 ##✨ Vista previa
 
-![galeria-anime_Preview](preview.gif)
+![galeria-anime_Preview](previewcard.gif)
 
 --- 
 

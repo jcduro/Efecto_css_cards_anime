@@ -1,11 +1,11 @@
-##🌟 Galería de Personajes de Anime
+## 🌟 Galería de Personajes de Anime
 
 Una galería visual interactiva que muestra algunos de los personajes más icónicos del anime, con efecto de volteo en las tarjetas al pasar el cursor.
 Diseñada en HTML y CSS, combina animación fluida, diseño limpio y descripciones breves para una experiencia moderna y visualmente atractiva.
 
 ---
 
-##✨ Vista previa
+## ✨ Vista previa
 
 ![galeria-anime_Preview](previewcard.gif)
 
@@ -17,7 +17,7 @@ Diseñada en HTML y CSS, combina animación fluida, diseño limpio y descripcion
 
 --- 
 
-🧩 Personajes incluidos
+## 🧩 Personajes incluidos
 Personaje	Descripción
 🥋 Goku	Guerrero Saiyajin de Dragon Ball Z, conocido por su energía ilimitada y su deseo constante de superarse.
 ⚡ Pikachu	El inseparable compañero de Ash en Pokémon, símbolo de amistad y poder eléctrico.
@@ -45,7 +45,7 @@ Hover Flip Effect – Efecto de giro para mostrar descripciones al pasar el curs
 
 ---
 
-##🚀 Características principales
+## 🚀 Características principales
 
 ✅ Diseño responsive adaptable a distintos dispositivos
 ✅ Animación de volteo suave en las tarjetas
